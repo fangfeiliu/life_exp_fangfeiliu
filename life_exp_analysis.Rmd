@@ -24,6 +24,8 @@ Here, I re-examine the analysis of Oeppen and Vaupel (2002).
 
 THis is summarizing the data to be clean
 
+The following code does calculates the maximum life expectancy each year and the corresponding country that had that maximum life expectancy.
+
 # Life Expectency Analysis
 ```{r}
 library(tidyverse)
